@@ -1,6 +1,6 @@
-# Laravel 11 Application with MySQL and Swagger (Non-Dockerized Local Setup)
+# Laravel Application with MySQL and Swagger (Non-Dockerized Local Setup)
 
-This README provides basic steps to run the Laravel 11 app locally with MySQL and Swagger.
+This README provides basic steps to run the Laravel app locally with MySQL and Swagger.
 
 ## Prerequisites
 
