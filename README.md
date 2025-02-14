@@ -14,7 +14,7 @@ This README provides basic steps to run the Laravel app locally with MySQL and S
 1.  **Clone:**
 
     ```bash
-    git clone <https://github.com/nimobn/gsm-pay-task.git>
+    git clone https://github.com/nimobn/gsm-pay-task.git
     cd <your-laravel-app-directory>
     ```
 
