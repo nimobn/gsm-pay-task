@@ -1,0 +1,14 @@
+node_modules
+vendor
+.git
+.idea
+.vscode
+docker/*
+!docker/app
+!docker/app/*
+!docker/nginx
+!docker/nginx/*
+*.log
+storage/logs
+bootstrap/cache
+npm-cache
